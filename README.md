@@ -2,7 +2,7 @@
 
 # 🏅 Examen de Selección “Ingeniero de Calidad” – Consubanco
 
-¡Bienvenido/a! Este repositorio contiene la prueba de selección para el puesto de QA Automatizador Senior. A continuación encontrarás todo lo necesario para completar los ejercicios de **Mobile**, **Web** y **API**.
+¡Bienvenido/a! Este repositorio contiene la prueba de selección para el puesto de QA Automatizador. A continuación encontrarás todo lo necesario para completar los ejercicios de **Mobile**, **Web** y **API**.
 
 ---
 
