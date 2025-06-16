@@ -20,4 +20,18 @@
    - Pruebas contra la API Petstore (Swagger) en Postman / Newman  
    - Creación, lectura, actualización y borrado de mascotas (CRUD)  
 
----
+**Instrucciones de Entrega**
+Crea una rama de este repositorio.
+
+Crea una rama llamada csb-automation-test-"tunombre".
+
+Realiza tus desarrollos y commitea los cambios en esa rama.
+
+💡 Consejos
+Usa Scenario Outline + CSV/JSON para datos variables.
+
+Implementa Page Objects y maneja esperas implícitas/explicitas.
+
+No utilices sleeps fijos.
+
+Mantén tu código limpio, modular y bien documentado.
