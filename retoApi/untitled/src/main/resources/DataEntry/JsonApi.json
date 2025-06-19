@@ -1,0 +1,18 @@
+{
+  "id": {Id},
+  "category": {
+    "id": {CategoryId},
+    "name": "{CategoryName}"
+  },
+  "name": "{Name}",
+  "photoUrls": [
+    "{PhotoUrls}"
+  ],
+  "tags": [
+    {
+      "id": {TagsId},
+      "name": "{TagsName}"
+    }
+  ],
+  "status": "{Status}"
+}
