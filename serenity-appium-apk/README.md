@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Proyecto de Automatización de Pruebas E2E Serenity - Swag Labs
 
 Proyecto para realizar pruebas automatizadas para la validación de la apk Swag Labs
@@ -10,7 +12,7 @@ Proyecto para realizar pruebas automatizadas para la validación de la apk Swag 
 4. (CA04) Validar que se muestre un producto junto a su precio en el carrito
 5. (CA05) Validar que se elimine un producto del carrito
 6. (CA06) Validar que se muestre la seccion "Swag Labs"
-7. (CA07) Validar que se muestre la seccion "Swag Labs"
+7. (CA07) Validar cierre de sesión exitosamente
 
 ## Requisitos Previos
 
